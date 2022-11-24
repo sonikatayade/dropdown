@@ -1,0 +1,33 @@
+.dropDownBox{
+    margin-left: 20px;
+    margin-top: 30px;
+          height:250px;
+          width:225px;	
+          overflow-y:auto;
+          float:left;
+          position:relative;
+  }
+  
+  .headerButton {
+    margin-top: 30px;
+    border: 2px solid black;
+    background-color: white;
+    padding: 15px 30px;
+    font-size: 15px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .elementButton {
+    border: 2px solid #5E8FD7;
+    background-color: white;
+    color: black;
+    padding: 15px 30px;
+    font-size: 15px;
+    cursor: pointer;
+    position: relative;  
+  }
+  
+  .elementButton:hover {
+    background-color: #5E8FD7;
+  }
